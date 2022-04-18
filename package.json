@@ -1,0 +1,22 @@
+{
+  "name": "password-generator-node",
+  "version": "1.0.0",
+  "description": "Create random **passwords** using the password **generator** tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devloop01/password-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devloop01/password-generator/issues"
+  },
+  "homepage": "https://github.com/devloop01/password-generator#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
